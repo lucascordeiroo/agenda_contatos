@@ -43,15 +43,21 @@ agenda-contatos/
 
 📷 Funcionalidades em destaque
 🔍 Busca por nome com barra de pesquisa
+
 🔄 Botões de exportar e importar contatos em CSV
+
 🔁 Alternância entre tema claro e escuro
+
 ✅ Confirmação de exclusão com messagebox.askyesno
 
 📂 Formato CSV suportado
 Para importar:
 ID,Nome,Email,Telefone
+
 1,Fulano,fulano@email.com,(11) 99999-0000
+
 2,Beltrano,beltrano@email.com,(22) 88888-1111
+
 O campo ID será ignorado na importação.
 
 👨‍💻 Autor
