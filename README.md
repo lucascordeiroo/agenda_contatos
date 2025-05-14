@@ -62,6 +62,8 @@ ID,Nome,Email,Telefone
 O campo ID será ignorado na importação.
 
 👨‍💻 Autor
+
 Desenvolvido por Lucas Cordeiro
+
 📧 Contato: lucascordeirooliveira50@gmail.com
 
